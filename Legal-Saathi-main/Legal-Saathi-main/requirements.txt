@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+sentencepiece
+accelerate
+PyMuPDF
+sentence-transformers
+openai-whisper
+gTTS
+pytesseract
+opencv-python-headless
+Pillow
+numpy
